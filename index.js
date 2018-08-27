@@ -26,4 +26,3 @@ function makeInt(n) {
   return parseInt('288', 10)
 }
 
-function 
